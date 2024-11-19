@@ -1,0 +1,40 @@
+Doel: alle hoeden van Petry attractief tonen
+Datum: 19 november 2024
+
+Frontpagina: random hoed tonen met caption
++ link naar overzicht
+
+Overzicht: de hoofdfoto in grid tonen
+grid moet zelf de maat van de foto kiezen (klein of midden afhankelijk van scherm)
+Klikken om hoed pagina teladen
+ook hier moet pagina zelf het formaat van de foto kiezen
+- kijken of pre uploaden groot formaat zinvol is
+
+hoed pagina:
+hoofdfoto en daaronder kleine fotos
+bij klikken omwisselen
+caption in h1
+en <p> met text
+
+dashboard waar de hoeden 
+- opgelaadt
+- bekeken, geedit en verwijdert kunnen worden
+- moet veld voor caption en text veld
+- jaar/maand gemaakt
+- upload Datum
+- inlog maken voor ontwerpster + mogelijkheid meerdere personen met verschillende functies
+
+
+=======
+database maken met links naar de foto's+ foto info
+
+fotos worden opgeslagen in dir 'hoeden'
+Bij opslaan:
+- klein, midden, groot en origineel formaat opslaan en coderen
+
+
+
+toekomst:
+- laden via ajax dus niet meer pagina herladen
+- mogelijkheid tot commentaar 3en met eerst goedkeur voor publicatie
+

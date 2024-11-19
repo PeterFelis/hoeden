@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body,html,main{
+    height: 100vh;
+    width: 100vw;
+    font-family: "Akaya Telivigala", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.mainFrontPagina{
+    background-color: #D1BDAC;
+}
+
+.frontFoto{
+    height:100%;
+    width:100%;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+
+.frontContainer{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    align-content: center;
+    color: white;
+    font-size: 4rem;
